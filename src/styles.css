@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: block;
+  margin: auto;
+  padding-top: 5rem;
+  padding-left: 2rem;
+}
+.list-books {
+  padding-top: 2rem;
+  list-style: none;
+}
+.inlign {
+  display: inline;
+  padding: 1rem;
+  cursor: pointer;
+}
+body {
+  background-color: lightcyan;
+}
+.small {
+  text-align: center;
+}
+.title {
+  padding: 2rem;
+}
