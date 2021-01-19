@@ -30,13 +30,11 @@ export default function App() {
 
   function onClickHandler(zone) {
     var zones = emojis[zone];
-    console.log(zones);
     setShow(zones);
   }
 
   return (
     <div className="App">
-      <h1>🍉🍌🍒🥝</h1>
       <h1 className="title">Zoner Wise Healthy and Tasty F00D! </h1>
       <small className="small">explore your favourite zone!!</small>
       <div style={{ padding: "rem" }}>
